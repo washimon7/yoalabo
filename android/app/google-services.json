@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "891499602896",
+    "project_id": "yoalabo-444fe",
+    "storage_bucket": "yoalabo-444fe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:891499602896:android:6535ffd221064965f68fd5",
+        "android_client_info": {
+          "package_name": "com.enritech.yoalabo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "891499602896-558pbl3g7i73q7qqnqfr7ejm0vkignqg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwvVx5WpC9jn0KyNmbH6FEi-5tFZ9aiqY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "891499602896-558pbl3g7i73q7qqnqfr7ejm0vkignqg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
